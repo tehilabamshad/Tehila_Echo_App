@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tehila Echo App</string>
+    <string name="action_settings">Settings</string>
+    <string name="instructions">Please enter text</string>
+    <string name="description">Tehila B.\'s attempt at Echo App HW</string>
+    <string name="button_description">Copy</string>
+</resources>
